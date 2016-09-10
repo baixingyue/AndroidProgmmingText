@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidProgmmingText.iml" filepath="$PROJECT_DIR$/AndroidProgmmingText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text10_ActivityOneWaySendData/Text10_ActivityOneWaySendData.iml" filepath="$PROJECT_DIR$/Text10_ActivityOneWaySendData/Text10_ActivityOneWaySendData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text11_ActivityTwoWaySendData/Text11_ActivityTwoWaySendData.iml" filepath="$PROJECT_DIR$/Text11_ActivityTwoWaySendData/Text11_ActivityTwoWaySendData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text12_Fragment/Text12_Fragment.iml" filepath="$PROJECT_DIR$/Text12_Fragment/Text12_Fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text13_HorizontalScreen_and_VerticalScreen/Text13_HorizontalScreen_and_VerticalScreen.iml" filepath="$PROJECT_DIR$/Text13_HorizontalScreen_and_VerticalScreen/Text13_HorizontalScreen_and_VerticalScreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text14_Intent/Text14_Intent.iml" filepath="$PROJECT_DIR$/Text14_Intent/Text14_Intent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text15_IntentCallPhone/Text15_IntentCallPhone.iml" filepath="$PROJECT_DIR$/Text15_IntentCallPhone/Text15_IntentCallPhone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text16_IntentFilter/Text16_IntentFilter.iml" filepath="$PROJECT_DIR$/Text16_IntentFilter/Text16_IntentFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text17_SharedPreferences/Text17_SharedPreferences.iml" filepath="$PROJECT_DIR$/Text17_SharedPreferences/Text17_SharedPreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text18_InternalStorage/Text18_InternalStorage.iml" filepath="$PROJECT_DIR$/Text18_InternalStorage/Text18_InternalStorage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text19_SDFile/Text19_SDFile.iml" filepath="$PROJECT_DIR$/Text19_SDFile/Text19_SDFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text1_HelloWorld/Text1_HelloWorld.iml" filepath="$PROJECT_DIR$/Text1_HelloWorld/Text1_HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text20_SQLite/Text20_SQLite.iml" filepath="$PROJECT_DIR$/Text20_SQLite/Text20_SQLite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text21_ContentProvider/Text21_ContentProvider.iml" filepath="$PROJECT_DIR$/Text21_ContentProvider/Text21_ContentProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text22_AccessContactorInformation/Text22_AccessContactorInformation.iml" filepath="$PROJECT_DIR$/Text22_AccessContactorInformation/Text22_AccessContactorInformation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text23_ContentObserver/Text23_ContentObserver.iml" filepath="$PROJECT_DIR$/Text23_ContentObserver/Text23_ContentObserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text24_StartService/Text24_StartService.iml" filepath="$PROJECT_DIR$/Text24_StartService/Text24_StartService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text25_Bindservice/Text25_Bindservice.iml" filepath="$PROJECT_DIR$/Text25_Bindservice/Text25_Bindservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text26_Handler/Text26_Handler.iml" filepath="$PROJECT_DIR$/Text26_Handler/Text26_Handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text27_Broadcast/Text27_Broadcast.iml" filepath="$PROJECT_DIR$/Text27_Broadcast/Text27_Broadcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text28_Mediaplayer/Text28_Mediaplayer.iml" filepath="$PROJECT_DIR$/Text28_Mediaplayer/Text28_Mediaplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text29_TakePhoto/Text29_TakePhoto.iml" filepath="$PROJECT_DIR$/Text29_TakePhoto/Text29_TakePhoto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text2_logcat/Text2_logcat.iml" filepath="$PROJECT_DIR$/Text2_logcat/Text2_logcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text30_Paint/Text30_Paint.iml" filepath="$PROJECT_DIR$/Text30_Paint/Text30_Paint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text3_component/Text3_component.iml" filepath="$PROJECT_DIR$/Text3_component/Text3_component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text4_ListView/Text4_ListView.iml" filepath="$PROJECT_DIR$/Text4_ListView/Text4_ListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text6_Menu/Text6_Menu.iml" filepath="$PROJECT_DIR$/Text6_Menu/Text6_Menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text7_Dialogue/Text7_Dialogue.iml" filepath="$PROJECT_DIR$/Text7_Dialogue/Text7_Dialogue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text8_LifeCycle/Text8_LifeCycle.iml" filepath="$PROJECT_DIR$/Text8_LifeCycle/Text8_LifeCycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Text9_Anotheractivity/Text9_Anotheractivity.iml" filepath="$PROJECT_DIR$/Text9_Anotheractivity/Text9_Anotheractivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text12_fragment(new)/text12_fragment(new).iml" filepath="$PROJECT_DIR$/text12_fragment(new)/text12_fragment(new).iml" />
+      <module fileurl="file://$PROJECT_DIR$/text29_camera/text29_camera.iml" filepath="$PROJECT_DIR$/text29_camera/text29_camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text29_camera2/text29_camera2.iml" filepath="$PROJECT_DIR$/text29_camera2/text29_camera2.iml" />
+    </modules>
+  </component>
+</project>

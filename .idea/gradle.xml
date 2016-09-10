@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Text10_ActivityOneWaySendData" />
+            <option value="$PROJECT_DIR$/Text11_ActivityTwoWaySendData" />
+            <option value="$PROJECT_DIR$/Text12_Fragment" />
+            <option value="$PROJECT_DIR$/Text13_HorizontalScreen_and_VerticalScreen" />
+            <option value="$PROJECT_DIR$/Text14_Intent" />
+            <option value="$PROJECT_DIR$/Text15_IntentCallPhone" />
+            <option value="$PROJECT_DIR$/Text16_IntentFilter" />
+            <option value="$PROJECT_DIR$/Text17_SharedPreferences" />
+            <option value="$PROJECT_DIR$/Text18_InternalStorage" />
+            <option value="$PROJECT_DIR$/Text19_SDFile" />
+            <option value="$PROJECT_DIR$/Text1_HelloWorld" />
+            <option value="$PROJECT_DIR$/Text20_SQLite" />
+            <option value="$PROJECT_DIR$/Text21_ContentProvider" />
+            <option value="$PROJECT_DIR$/Text22_AccessContactorInformation" />
+            <option value="$PROJECT_DIR$/Text23_ContentObserver" />
+            <option value="$PROJECT_DIR$/Text24_StartService" />
+            <option value="$PROJECT_DIR$/Text25_Bindservice" />
+            <option value="$PROJECT_DIR$/Text26_Handler" />
+            <option value="$PROJECT_DIR$/Text27_Broadcast" />
+            <option value="$PROJECT_DIR$/Text28_Mediaplayer" />
+            <option value="$PROJECT_DIR$/Text29_TakePhoto" />
+            <option value="$PROJECT_DIR$/Text2_logcat" />
+            <option value="$PROJECT_DIR$/Text30_Paint" />
+            <option value="$PROJECT_DIR$/Text3_component" />
+            <option value="$PROJECT_DIR$/Text4_ListView" />
+            <option value="$PROJECT_DIR$/Text6_Menu" />
+            <option value="$PROJECT_DIR$/Text7_Dialogue" />
+            <option value="$PROJECT_DIR$/Text8_LifeCycle" />
+            <option value="$PROJECT_DIR$/Text9_Anotheractivity" />
+            <option value="$PROJECT_DIR$/text12_fragment(new)" />
+            <option value="$PROJECT_DIR$/text29_camera" />
+            <option value="$PROJECT_DIR$/text29_camera2" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Text10_ActivityOneWaySendData" />
+            <option value="$PROJECT_DIR$/Text11_ActivityTwoWaySendData" />
+            <option value="$PROJECT_DIR$/Text12_Fragment" />
+            <option value="$PROJECT_DIR$/Text13_HorizontalScreen_and_VerticalScreen" />
+            <option value="$PROJECT_DIR$/Text14_Intent" />
+            <option value="$PROJECT_DIR$/Text15_IntentCallPhone" />
+            <option value="$PROJECT_DIR$/Text16_IntentFilter" />
+            <option value="$PROJECT_DIR$/Text17_SharedPreferences" />
+            <option value="$PROJECT_DIR$/Text18_InternalStorage" />
+            <option value="$PROJECT_DIR$/Text19_SDFile" />
+            <option value="$PROJECT_DIR$/Text1_HelloWorld" />
+            <option value="$PROJECT_DIR$/Text20_SQLite" />
+            <option value="$PROJECT_DIR$/Text21_ContentProvider" />
+            <option value="$PROJECT_DIR$/Text22_AccessContactorInformation" />
+            <option value="$PROJECT_DIR$/Text23_ContentObserver" />
+            <option value="$PROJECT_DIR$/Text24_StartService" />
+            <option value="$PROJECT_DIR$/Text25_Bindservice" />
+            <option value="$PROJECT_DIR$/Text26_Handler" />
+            <option value="$PROJECT_DIR$/Text27_Broadcast" />
+            <option value="$PROJECT_DIR$/Text28_Mediaplayer" />
+            <option value="$PROJECT_DIR$/Text29_TakePhoto" />
+            <option value="$PROJECT_DIR$/Text2_logcat" />
+            <option value="$PROJECT_DIR$/Text30_Paint" />
+            <option value="$PROJECT_DIR$/Text3_component" />
+            <option value="$PROJECT_DIR$/Text4_ListView" />
+            <option value="$PROJECT_DIR$/Text6_Menu" />
+            <option value="$PROJECT_DIR$/Text7_Dialogue" />
+            <option value="$PROJECT_DIR$/Text8_LifeCycle" />
+            <option value="$PROJECT_DIR$/Text9_Anotheractivity" />
+            <option value="$PROJECT_DIR$/text12_fragment(new)" />
+            <option value="$PROJECT_DIR$/text29_camera" />
+            <option value="$PROJECT_DIR$/text29_camera2" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
